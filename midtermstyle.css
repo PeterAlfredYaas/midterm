@@ -1,0 +1,80 @@
+
+h1{
+	font: serif; 
+	border-bottom: solid;
+	border-width: 1px;
+}
+h2{
+	font: times;
+	border-bottom: solid;
+	border-width: 1px;
+	font-size: 30px;
+}
+h3{
+	font-family: sans-serif;
+	font-size: 25px;
+}
+p{
+	font-family: helvetica;
+}
+body{
+	font: helvetica; 
+}
+h4{
+	font-size: 20px;
+	font-family:sans-serif;
+}
+th,tr{
+	border-style:solid;
+	border-width: 1px;
+	background-color:lavender;
+}
+li{
+	font-family: sans-serif;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: red;
+	font-style:underline;
+}
+a:hover{
+	color:pink;
+	font-family:times;
+
+}
+
+#introtext{
+	font-family:sans-serif;
+	text-align:left;
+}
+#stats{
+	float:right;
+	border-style:solid;
+	border-width: 1px;
+	background-color: lavender;
+	font-family: sans-serif;
+	width: 350px;
+}
+
+#tablecontents{
+	font-family:sans-serif;
+	text-align: left;
+	float: left;
+	border-style: solid; 
+	border-width: 1px; 
+	background-color: lavender
+}
+#maincontent{
+	padding-top: 600px;
+}
+
+#Campus{
+	float: right;
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	background-color:lavender;
+	width: 300px;
+}
